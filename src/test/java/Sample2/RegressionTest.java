@@ -8,6 +8,6 @@ public class RegressionTest {
 	@Test
 	public void Regressioncontact()
 	{
-		System.out.println("Inside Regressvbhvhvhhjion create contact");
+		System.out.println("Inside Regressvbhgghghvhvhhjion create contact");
 	}
 }
